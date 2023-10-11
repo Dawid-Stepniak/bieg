@@ -1,0 +1,216 @@
+    1  cd D:
+    2  cd xampp/htdocs
+    3  ls
+    4  cd adamowojacex
+    5  git init
+    6  code .
+    7  git add .gitignore
+    8  git commit -m "testowa wiadomość"
+    9  git config --global user.email "dawid.stepniak2006@gmail.com
+   10  git config --global user.email "dawid.stepniak2006@gmail.com"
+   11  "
+   12  git config --global user.email "dawid.stepniak2006@gmail.com"
+   13  git ocnfig --global user.name "Dawid-Stepniak"
+   14  git config --global user.name "Dawid-Stepniak"
+   15  git commit -m "testowa wiadomość"
+   16  git add .
+   17  git commit -m "dodanie wszystkiego"
+   18  mkdir naukafolder
+   19  cd naukafolder
+   20  echo siema
+   21  echo siema >> pliczek
+   22  >> kloc
+   23  ls
+   24  ls >> plikzls
+   25  echo dodanie zawartości > plikzls
+   26  echo dodanie zawartości nr 2 >> plikzls
+   27  cat plikzls
+   28  vim plikzls
+   29  vim plikzls
+   30  D:
+   31  cd D:
+   32  cd xampp
+   33  cd htdocs
+   34  laraver new nauka
+   35  laravel new nauka
+   36  git push
+   37  .git
+   38  git init
+   39  git push
+   40  git config --global --ad safe.directory D:/xampp/htdocs
+   41  git push
+   42  git config --global --remove safe.directory D:/xampp/htdocs
+   43  [200~git config --global --add safe.directory D:/xampp/htdocs
+   44  git config --global --unset safe.directory D:/xampp/htdocs
+   45  git push
+   46  cd nauka
+   47  git push
+   48  git init
+   49  git push
+   50  git remote add Dawid https://github.com/Dawid-Stepniak/nauka2.git
+   51  git push Dawid
+   52  git push --set-upstream Dawid master
+   53  git config user.name "Dawid-Stepniak"
+   54  git push
+   55  git push -u origin master
+   56  git push origin -u master
+   57  D:
+   58  cd D:
+   59  cd xampp/htdocs
+   60  laravel new nauka123
+   61  git init
+   62  . code
+   63  cd D:
+   64  cd xampp/htdocs/nauka123
+   65  code .
+   66  git push origin -u master
+   67  git config --global --add safe.directory D:/xampp/htdocs
+   68  git push origin -u master
+   69  git branch
+   70  git push origin m,aster
+   71  git push
+   72  git remote add "nauka2" "https://github.com/Dawid-Stepniak/nauka2"
+   73  git push nauka2
+   74  git push --set-upstream nauka2 master
+   75  git push origin -u main
+   76  git add
+   77  git add .
+   78  git commit
+   79  cd D:
+   80  cd xampp/htdocs
+   81  laravel new poradnik
+   82  cd poradnik
+   83  ls
+   84  ls -a
+   85  git status
+   86  touch index.html
+   87  git status
+   88  git status
+   89  git init
+   90  git status
+   91  git add index.html
+   92  git status
+   93  git commit -m "stworzenie index.html"
+   94  git status
+   95  git log
+   96  touch app.js
+   97  cd D:
+   98  cd xampp/htdocs
+   99  laravel new poradnik
+  100  cd poradnik
+  101  ls
+  102  ls -a
+  103  git statusd
+  104  git status
+  105  git init
+  106  git status
+  107  cd C:\Users\Dawid\Desktop\uczymy
+  108  c:
+  109  cd C:
+  110  cd C:\Users\Dawid\Desktop\uczymy
+  111  cd Users\Dawid\Desktop\uczymy
+  112  cd C:/Users/Dawid/Desktop/uczymy
+  113  git init
+  114  git status
+  115  touch index.html
+  116  git status
+  117  git add index.html
+  118  git status
+  119  git commit -m "stworzenie index.html"
+  120  git status
+  121  git log
+  122  touch app.js
+  123  otuch styles.css
+  124  touch styles.css
+  125  code .
+  126  git status
+  127  git add index.html app.js
+  128  git status
+  129  get commit -m "dodajemy logike aplikacji"
+  130  git commit -m "dodajemy logike aplikacji"
+  131  git status
+  132  git log
+  133  git status
+  134  clear
+  135  git add .
+  136  git status
+  137  git commit -m "dodanie podstawowych stylów"
+  138  git status
+  139  git log
+  140  git status
+  141  git add styles.css
+  142  git commit "zmiana koloru tła"
+  143  git commit -m "zmiana koloru tła"
+  144  git log
+  145  git checkout df47141377fc40f04d496d48263e8fcb848197b5
+  146  git checkout 5627a9f5ab1241a6edfbf1255e749b81ed195c04
+  147  git status
+  148  git branch
+  149  git checkout master
+  150  git branch
+  151  git status
+  152  git branch szalonekolory
+  153  git branch
+  154  git checkout szalonekolory
+  155  git log
+  156  git branch
+  157  git status
+  158  clear 
+  159  git add .
+  160  git commit -m "dodanie szalonych kolorów"
+  161  git log
+  162  git branch
+  163  git checkout master
+  164  git log
+  165  git branch
+  166  git merge szalonekolory
+  167  get log
+  168  git log
+  169  git branch
+  170  cd D:
+  171  cd C:/Users/Dawid/Desktop/naukalaravel/project1
+  172  npm run dev
+  173  npm run dev
+  174  npm run dev
+  175  [200~cd C:/Users/Dawid/Desktop/naukalaravel/project1
+  176  cd C:/Users/Dawid/Desktop/naukalaravel/project1
+  177  npm run dev
+  178  cd C:\Users\Dawid\Desktop\naukalaravel\project1
+  179  cd C:/Users/Dawid/Desktop/naukalaravel/project1
+  180  npm run dev
+  181  cd C:\Users\Dawid>cd C:/Users/Dawid/Desktop/naukalaravel/project1
+  182  cd C:/Users/Dawid/Desktop/naukalaravel/project1
+  183  php artisan route:list
+  184  php artisan route:list -v
+  185  npm run dev
+  186  npm run dev
+  187  cd C:/Users/Dawid/Desktop/naukalaravel/project1
+  188  npm run vite
+  189  npm run vite
+  190  npm run
+  191  npm run dev
+  192  yarn install
+  193  npm install
+  194  npm run dev
+  195  $ cd C:/Users/Dawid/Desktop/naukalaravel/project1
+  196  cd C:/Users/Dawid/Desktop/naukalaravel/project1
+  197  git clone https://github.com/Dawid-Stepniak/bieg.git
+  198  ls
+  199  cd bieg
+  200  ls
+  201  git status
+  202  git add *
+  203  git echo krystyna > siema
+  204  echo krystyna > siema
+  205  echo krysia >> siema
+  206  echo costam > siema
+  207  echo nadpisanie >> >> nadpisanie
+  208  echo "napdisanie >>" >> nadpisanie
+  209  echo "dodanie >" > dodanie
+  210  echo dodanie tego napisu > dodanie
+  211  echo "dodawanie tresci do pliku >>" >> dodanie
+  212  echo "napisanie treści pliku >" > nadpisanie
+  213  ls
+  214  history
+  215  echo history >> historia
+  216  history >> historia
